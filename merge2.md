@@ -1,2 +1,2 @@
-- ### Adding code to this file: Issue 1
+- ### Editing issue 1's line: Issue 3
 - ### Adding code to this file: Issue 2
