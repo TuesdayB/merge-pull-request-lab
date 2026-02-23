@@ -1,2 +1,3 @@
-- ### Adding code to this project: Exercise 1 -Tuesday
+- ### Adding code to this project: Exercise 3
+- ### Adding code to this project and editing it: Exercise 1 & 3 -Tuesday
 - ### Adding code to this project: Exercise 2 -Tuesday
